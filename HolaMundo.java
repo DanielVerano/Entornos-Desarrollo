@@ -9,7 +9,7 @@ public class HolaMundo {
       String naranja = "\033[33m";
       String azul = "\033[34m";
       
-      System.out.println("Hola Mundo");
-      System.out.println("Pruebas de GIT con CLI");
+      System.out.println(naranja + "Hola Mundo");
+      System.out.println(azul + "Pruebas de GIT con CLI");
    }
 }
